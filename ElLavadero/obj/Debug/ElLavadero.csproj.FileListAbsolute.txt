@@ -1,0 +1,17 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Lavadero\ElLavadero\bin\Debug\ElLavadero.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Lavadero\ElLavadero\bin\Debug\ElLavadero.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Lavadero\ElLavadero\bin\Debug\ElLavadero.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lavadero\ElLavadero\obj\Debug\ElLavadero.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Lavadero\ElLavadero\obj\Debug\ElLavadero.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lavadero\ElLavadero\bin\Debug\LavaderoAutos.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Lavadero\ElLavadero\bin\Debug\LavaderoAutos.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lavadero\ElLavadero\obj\Debug\ElLavadero.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\ElLavadero\obj\Debug\ElLavadero.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\ElLavadero\obj\Debug\ElLavadero.exe
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\ElLavadero\obj\Debug\ElLavadero.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\ElLavadero\bin\Debug\ElLavadero.exe.config
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\ElLavadero\bin\Debug\ElLavadero.exe
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\ElLavadero\bin\Debug\ElLavadero.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\ElLavadero\bin\Debug\LavaderoAutos.dll
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\ElLavadero\bin\Debug\LavaderoAutos.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\ElLavadero\obj\Debug\ElLavadero.csprojResolveAssemblyReference.cache

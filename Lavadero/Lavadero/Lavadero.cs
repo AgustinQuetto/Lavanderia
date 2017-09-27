@@ -88,11 +88,57 @@ namespace Lavadero
         }
 
 
-        public bool operator ==(Lavadero lavadero, Vehiculo vehiculo)
+        public static bool operator ==(Lavadero lavadero, Vehiculo vehiculo)
         {
-            foreach(vehiculo)
+            foreach(Vehiculo veh in lavadero.Vehiculo)
+            {
+                if(veh == vehiculo)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
+        public static bool operator !=(Lavadero lavadero, Vehiculo vehiculo)
+        {
+            foreach (Vehiculo veh in lavadero.Vehiculo)
+            {
+                if (veh == vehiculo)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        public static Lavadero operator +(Lavadero unLavadero, Vehiculo unVehiculo)
+        {
+            if ((unLavadero == unVehiculo) < 0)
+            {
+                unLavadero._vehiculos.Add(unVehiculo);
+            }
+            return unLavadero;
+        }
+
+        public static Lavadero operator -(Lavadero unLavadero, Vehiculo unVehiculo)
+        {
+            if ((unLavadero == unVehiculo) >= 0)
+            {
+                unLavadero._vehiculos.RemoveAt((unLavadero == unVehiculo));
+            }
+            return unLavadero;
+        }
+
+        public static int OrdenarVehiculosPorPatente(Vehiculo unVehiculo, Vehiculo otroVehiculo)
+        {
+            return string.Compare(unVehiculo.Patente, otroVehiculo.Patente);
+        }
+
+        public int OrdenarVehiculosPorMarca(Vehiculo unVehiculo, Vehiculo otroVehiculo)
+        {
+            return string.Compare(unVehiculo.Marca.ToString(), otroVehiculo.Marca.ToString());
+        }
 
     }
 }

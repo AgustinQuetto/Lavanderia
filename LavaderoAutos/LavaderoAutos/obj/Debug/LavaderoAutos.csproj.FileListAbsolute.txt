@@ -1,0 +1,11 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\LavaderoAutos\LavaderoAutos\bin\Debug\LavaderoAutos.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\LavaderoAutos\LavaderoAutos\bin\Debug\LavaderoAutos.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\LavaderoAutos\LavaderoAutos\obj\Debug\LavaderoAutos.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\LavaderoAutos\LavaderoAutos\obj\Debug\LavaderoAutos.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\LavaderoAutos\LavaderoAutos\obj\Debug\LavaderoAutos.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\LavaderoAutos\LavaderoAutos\obj\Debug\LavaderoAutos.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\LavaderoAutos\LavaderoAutos\bin\Debug\LavaderoAutos.dll
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\LavaderoAutos\LavaderoAutos\bin\Debug\LavaderoAutos.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\LavaderoAutos\LavaderoAutos\obj\Debug\LavaderoAutos.dll
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\LavaderoAutos\LavaderoAutos\obj\Debug\LavaderoAutos.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Lavadero\LavaderoAutos\LavaderoAutos\obj\Debug\LavaderoAutos.csprojResolveAssemblyReference.cache
